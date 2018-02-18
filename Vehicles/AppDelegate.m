@@ -7,6 +7,8 @@
 //
 
 #import "AppDelegate.h"
+#import "Vehicle.h"
+
 
 @implementation AppDelegate
 
